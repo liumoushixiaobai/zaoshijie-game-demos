@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<defs><pattern id="paper" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M0 0h1v1H0zM5 6h1v1H5z" fill="#564b3420"/></pattern><pattern id="floor" width="150" height="50" patternUnits="userSpaceOnUse"><rect width="150" height="50" fill="#cbb590"/><path d="M0 49h150M149 0v50" stroke="#b19a78"/></pattern></defs>
+<rect width="900" height="600" fill="#e8dfc5"/><rect y="395" width="900" height="205" fill="url(#floor)"/>
+<rect x="50" y="37" width="400" height="268" rx="3" fill="#6c8273"/><rect x="62" y="49" width="376" height="244" fill="#bdd2bc"/>
+<path d="M62 191q70-52 120 0t100 0 156-20v122H62" fill="#91ad8d"/><path d="M270 135h135v158H270z" fill="#c7c9ad"/><path d="M279 145h115v16H279zM279 180h115v16H279zM279 215h115v16H279z" fill="#869e8d"/>
+<path d="M76 280v-47m20 47v-70m21 70v-53m20 53v-79" stroke="#6a8b6d" stroke-width="10"/><path d="M250 49v244M62 170h376" stroke="#e3ddc5" stroke-width="9"/>
+<path d="M30 24h57v313H29q40-130 1-313M416 24h59v313h-59q34-149 0-313" fill="#c2b28e"/>
+<rect x="505" y="43" width="197" height="213" fill="#f2ead4" stroke="#b8a681" stroke-width="5"/><rect x="505" y="43" width="197" height="37" fill="#6f8975"/>
+<text x="604" y="69" font-family="serif" font-size="22" text-anchor="middle" fill="#f5edd6">2020 · 春</text>
+<g fill="#b2af94"><rect x="525" y="100" width="21" height="18"/><rect x="562" y="100" width="21" height="18"/><rect x="599" y="100" width="21" height="18"/><rect x="636" y="100" width="21" height="18"/><rect x="525" y="139" width="21" height="18"/><rect x="562" y="139" width="21" height="18"/><rect x="599" y="139" width="21" height="18"/><rect x="636" y="139" width="21" height="18"/><rect x="525" y="178" width="21" height="18"/><rect x="562" y="178" width="21" height="18"/><rect x="599" y="178" width="21" height="18"/></g>
+<circle cx="646" cy="188" r="20" fill="none" stroke="#b66549" stroke-width="3"/>
+<rect x="746" y="103" width="116" height="112" fill="#d9cea7" transform="rotate(6 804 159)"/><text x="802" y="139" font-family="serif" font-size="17" text-anchor="middle" fill="#7c8c69">拍同款</text><text x="802" y="169" font-family="serif" font-size="13" text-anchor="middle" fill="#9b7651">遮镜 · 卡点</text><text x="802" y="195" font-family="serif" font-size="13" text-anchor="middle" fill="#9b7651">今天也重拍了</text>
+<rect x="105" y="376" width="602" height="33" rx="5" fill="#a17f54"/><rect x="126" y="409" width="22" height="169" fill="#97764f"/><rect x="665" y="409" width="22" height="169" fill="#97764f"/>
+<rect x="207" y="228" width="255" height="139" rx="9" fill="#3b5149"/><rect x="219" y="240" width="231" height="111" rx="3" fill="#9dbdaf"/>
+<g fill="#d6c8a2"><rect x="229" y="249" width="64" height="41" rx="3"/><rect x="304" y="249" width="64" height="41" rx="3"/><rect x="379" y="249" width="61" height="41" rx="3"/></g>
+<g fill="#c4ddce"><rect x="229" y="300" width="64" height="41" rx="3"/><rect x="304" y="300" width="64" height="41" rx="3"/><rect x="379" y="300" width="61" height="41" rx="3"/></g>
+<g fill="#728b76"><circle cx="262" cy="267" r="10"/><circle cx="336" cy="267" r="10"/><circle cx="408" cy="267" r="10"/><circle cx="262" cy="317" r="10"/><circle cx="336" cy="317" r="10"/><circle cx="408" cy="317" r="10"/></g>
+<path d="M203 365h263l26 17H180z" fill="#c7c6af"/><path d="M244 372h172" stroke="#869b8a" stroke-width="5"/>
+<path d="M512 300q0-42 38-42t38 42" fill="none" stroke="#657b70" stroke-width="9"/><rect x="503" y="294" width="16" height="32" rx="5" fill="#4f6c61"/><rect x="580" y="294" width="16" height="32" rx="5" fill="#4f6c61"/>
+<path d="M545 349l99 5-8 41-100-5z" fill="#f5efda"/><path d="M551 362l72 4m-74 5 71 4m-74 5 70 4" stroke="#9aaf9c" stroke-width="2"/>
+<rect x="150" y="321" width="34" height="53" rx="6" fill="#677d6e"/><path d="M158 331h18v27h-18z" fill="#c5d5bd"/>
+<rect x="744" y="402" width="121" height="178" rx="12" fill="#3c5548"/><rect x="753" y="417" width="103" height="143" rx="3" fill="#b2bba0"/><rect x="785" y="408" width="37" height="4" rx="2" fill="#899a80"/><text x="805" y="438" font-size="11" font-family="sans-serif" text-anchor="middle" fill="#697f5e">拍摄草稿 DRAFT</text><circle cx="804" cy="466" r="12" fill="#a98561"/><path d="M788 486h31v39h-31z" fill="#78916c"/><path d="M783 487l-14 24m55-24 14 24m-42 14-16 22m31-22 5 24" stroke="#687c5e" stroke-width="9" stroke-linecap="round"/><text x="803" y="574" font-size="10" font-family="serif" text-anchor="middle" fill="#d3dfc2">今天一起拍最后一条</text>
+<rect x="318" y="445" width="199" height="106" rx="18" fill="#879b80"/><path d="M329 473v111m177-111v111" stroke="#697e65" stroke-width="12"/>
+<path d="M53 404v158h43V404" fill="#ae8960"/><path d="M73 415q-38-46-41-89 51 18 43 76M74 407q41-54 31-93-47 45-31 93M74 377q-20-63-2-105 29 49 2 105" fill="#7d966c"/>
+<text x="622" y="546" fill="#775e43" font-size="22" font-family="serif" transform="rotate(-4 622 546)">平凡的一天，也值得被记住。</text>
+<rect width="900" height="600" fill="url(#paper)"/>
+</svg>

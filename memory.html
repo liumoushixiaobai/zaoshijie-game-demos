@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="#293e36">
+    <title>春日存档 · 2019—2020 密室解谜</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23293e36'/%3E%3Ctext x='32' y='46' text-anchor='middle' font-size='40' fill='%23ecddb5'%3E忆%3C/text%3E%3C/svg%3E">
+    <link rel="stylesheet" href="escape.css">
+</head>
+<body>
+    <a href="#rooms" class="skip-link">跳到房间入口</a>
+    <header class="topbar"><a class="brand" href="memory.html"><b>忆</b><span>春日存档<small>2019 — 2020 / THE UNFINISHED DRAFT</small></span></a><div class="hud"><span id="progress">照片 0 / 6</span><time id="timer">20:00</time><button data-action="pause" id="pause" disabled>暂停</button><button data-action="journal" id="journal" disabled>手记</button></div></header>
+    <main><div class="world-title"><span>那年没拍完的视频。</span><small>点击房间里的物件，找回留在屏幕两端的记忆。</small></div><div class="map-wrap"><canvas id="map" aria-label="俯视记忆空间：上方三个区域为2020网课生活，下方三个区域为2019暑假。使用下方房间按钮也可进入。"></canvas><button class="archive-button" data-action="archive">打开旧相册 <span id="archive-count">0 / 6</span></button></div><nav id="rooms" class="room-links" aria-label="房间入口"></nav></main>
+    <footer><span>合作密室解谜 · 不用背梗，线索都在现场。</span><a href="exam.html">逢考必过试玩 ↗</a></footer>
+    <dialog id="overlay" aria-labelledby="dialog-title"></dialog><p id="toast" role="status" aria-live="polite"></p>
+    <script type="module" src="escape-app.mjs"></script>
+</body>
+</html>
